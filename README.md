@@ -155,8 +155,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=dimatefps.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=dimatefps.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 
-<p align="center"> 
-<img alt="Stars" src="https://img.shields.io/github/stars/dimatefps/dimatefps?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dimatefps/dimatefps?style=flat-square&labelColor=343b41"/></p>
+<!-- <p align="center"> 
+<img alt="Stars" src="https://img.shields.io/github/stars/dimatefps/dimatefps?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/dimatefps/dimatefps?style=flat-square&labelColor=343b41"/></p> -->
 <br>
 <p align="center">
 <a href="https://github.com/dimatefps" alt="https://github.com/dimatefps"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Mate&color=000000"></a>
