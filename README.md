@@ -65,17 +65,17 @@ This is the place where I opensource stuff and break things
 <h3>Where to find me:</h3>
 
 <a href="https://github.com/dimatefps" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dimatefps)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20678200/dimate)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://img.shields.io/badge/Mastodon-%40dimate-blueviolet)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/YKPp3lXWs1/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rabelo-x)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pt4h6qdh52knvf5xta5qzxd74)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20678200/dimate)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/YKPp3lXWs1/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/dimatefps)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matheusryan406+github@gmail.com)](mailto:matheusryan406+github@gmail.com)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dimatefps) -->
 <!-- <a href="https://medium.com/@dimatefps" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 <!-- [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dimatefps) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dimatefps) -->
+<!-- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://img.shields.io/badge/Mastodon-%40dimate-blueviolet) -->
+<!-- [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pt4h6qdh52knvf5xta5qzxd74) -->
 
 <!-- ```
   ____                  ____                      
@@ -96,20 +96,13 @@ This is the place where I opensource stuff and break things
 -->
 <!-- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of Python 😛</small>
-  <br />
-  <br />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&hide_progress=true)
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=dimatefps&amp;show_icons=true" alt="GitHub Stats"></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dimatefps">
+[![Mate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-dark-mode-only)
+[![Mate's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-light-mode-only)
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimatefps&theme=github-dark-dimmed&custom_title=Mate%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimatefps&theme=github-dark-dimmed&custom_title=Mate's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></h1> -->
