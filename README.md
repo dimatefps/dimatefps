@@ -7,7 +7,9 @@ Welcome to my profile!
 Passionate about **Code, Write & Share**.
  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matheus-rabelo-x/)!
 
-This is the place where I opensource stuff and break things 
+This is the place where I opensource stuff and break things
+
+[Roadmap.sh profile](https://roadmap.sh/u/dimatefps)
 
   <!-- github_stats starts --><!-- github_stats ends -->
 
@@ -185,11 +187,11 @@ This is the place where I opensource stuff and break things
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) -->
 
 
-<details>
+<!-- <details>
   <summary>Analytics</summary>
   <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   <img alt="Meta Business Suite" src="https://img.shields.io/badge/Meta_Business_Suite-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white">
-</details>
+</details> -->
 
 <!-- #### Artificial Intelligence and Bots:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -278,13 +280,13 @@ This is the place where I opensource stuff and break things
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) -->
 
-<div align="center">
+<!--<div align="center">
   <h3>Workspace Spec:<h3>
 
   <img alt="Windows" src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
   <img alt="AMD Ryzen 5 5600G" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img alt="RAM" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-</div>
+</div> -->
 
 <br>
 <p></p>
@@ -329,11 +331,12 @@ This is the place where I opensource stuff and break things
 -->
 <!-- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&hide_progress=true)
 
 
 [![Mate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-dark-mode-only)
 [![Mate's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-light-mode-only)
+-->
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimatefps&theme=github-dark-dimmed&custom_title=Mate's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
