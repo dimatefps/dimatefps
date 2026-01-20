@@ -9,7 +9,7 @@ Passionate about **Code, Write & Share**.
 
 This is the place where I opensource stuff and break things
 
-[Roadmap.sh profile](https://roadmap.sh/u/dimatefps)
+[![roadmap.sh](https://roadmap.sh/card/tall/692a57c2bd486ea460061532?variant=dark&roadmaps=prompt-engineering%2Cpython%2Cgit-github)](https://roadmap.sh/u/dimatefps)
 
   <!-- github_stats starts --><!-- github_stats ends -->
 
