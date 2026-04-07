@@ -1,15 +1,15 @@
+
+
 # Hi, I'm Mate 👋
 
 Welcome to my profile! 
 
- I'm Mate ([22](https://github.com/dimatefps/dimatefps/commit/50f0a6be5a82bf397251be49d55e179700cefb68) y.o), CS student, part-time coder and full-time adventure seeker.
+ I'm Mate ([21](https://github.com/dimatefps/dimatefps/commit/50f0a6be5a82bf397251be49d55e179700cefb68) y.o), CS student, part-time coder and full-time adventure seeker.
  Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil</b>. 
 Passionate about **Code, Write & Share**.
  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/matheus-rabelo-x/)!
 
-This is the place where I opensource stuff and break things
-
-[![roadmap.sh](https://roadmap.sh/card/tall/692a57c2bd486ea460061532?variant=dark&roadmaps=prompt-engineering%2Cpython%2Cgit-github)](https://roadmap.sh/u/dimatefps)
+This is the place where I opensource stuff and break things 
 
   <!-- github_stats starts --><!-- github_stats ends -->
 
@@ -34,8 +34,8 @@ This is the place where I opensource stuff and break things
 <br />
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@dimatefps?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/dimatefps)-->
-<details>
-  <summary>Languages</summary>
+
+<h3>Languages</h3>
 
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -45,9 +45,8 @@ This is the place where I opensource stuff and break things
   <img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
   <!-- <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"> -->
-</details>  
-<details>
-  <summary>Databases</summary>
+
+  <h3>Databases</h3>
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> 	
@@ -56,20 +55,20 @@ This is the place where I opensource stuff and break things
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img alt="PHPMyAdmin" src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"></details>
+<img alt="PHPMyAdmin" src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 
-<details>
-  <summary>Cloud and Hosting</summary>
+
+  <h3>Cloud and Hosting</h3>
 
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white">
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></details>
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-<details>
-  <summary>Frameworks, Tool and DevOps</summary>
+
+  <h3>Frameworks, Tool and DevOps</h3>
 
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -79,18 +78,17 @@ This is the place where I opensource stuff and break things
 <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white">
 <img alt="N8N" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto">
 <img alt="SQLAlchemy" src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-<!-- ![Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> --></details>
+<!-- ![Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"> -->
 
  
-<details>
-  <summary>Data, ML and Visualization</summary>
+  <h3>Data, ML and Visualization</h3>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  </details>
+  
 <!-- 
 ### Design:
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
@@ -180,18 +178,19 @@ This is the place where I opensource stuff and break things
 
 
 
-<!-- 
-#### Version Control and Terminal 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) -->
+<h3>Version Control and Terminal</h3> 
+<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+<img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 
 
-<!-- <details>
+<details>
   <summary>Analytics</summary>
   <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   <img alt="Meta Business Suite" src="https://img.shields.io/badge/Meta_Business_Suite-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white">
-</details> -->
+</details>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/692a57c2bd486ea460061532?variant=dark&roadmaps=prompt-engineering%2Cpython%2Cgit-github)](https://roadmap.sh/u/dimatefps)
 
 <!-- #### Artificial Intelligence and Bots:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -280,13 +279,13 @@ This is the place where I opensource stuff and break things
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) -->
 
-<!--<div align="center">
+<div align="center">
   <h3>Workspace Spec:<h3>
 
   <img alt="Windows" src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
   <img alt="AMD Ryzen 5 5600G" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img alt="RAM" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-</div> -->
+</div>
 
 <br>
 <p></p>
@@ -331,12 +330,11 @@ This is the place where I opensource stuff and break things
 -->
 <!-- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimatefps&hide_progress=true)
 
 
 [![Mate's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-dark-mode-only)
 [![Mate's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dimatefps&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dimatefps/github-readme-stats#gh-light-mode-only)
--->
 
 <!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimatefps&theme=github-dark-dimmed&custom_title=Mate's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
